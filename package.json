@@ -1,0 +1,15 @@
+{
+    "name": "SSLWA_APP",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "augeh-kd46",
+    "contributors": [
+    ],
+    "dependencies": {}
+}
